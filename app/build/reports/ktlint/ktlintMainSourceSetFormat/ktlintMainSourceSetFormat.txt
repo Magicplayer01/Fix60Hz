@@ -1,0 +1,502 @@
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m1[90m:1:[0m File must end with a newline (\n) [90m(standard:final-newline)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m15[90m:1:[0m Class body should not start with blank line [90m(standard:no-empty-first-line-in-class-body)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m82[90m:5:[0m Expected a blank line for this declaration [90m(standard:blank-line-before-declaration)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m90[90m:17:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m90[90m:39:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m91[90m:14:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m91[90m:14:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m94[90m:40:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m95[90m:11:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m95[90m:36:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m95[90m:37:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m104[90m:4:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m104[90m:21:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m104[90m:30:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m105[90m:22:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m105[90m:24:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m107[90m:1:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m110[90m:3:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m110[90m:24:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m113[90m:1:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m114[90m:38:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m117[90m:15:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m117[90m:47:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m118[90m:2:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m119[90m:28:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m119[90m:50:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m120[90m:2:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m120[90m:6:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m133[90m:7:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m152[90m:27:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m152[90m:48:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m153[90m:7:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m154[90m:9:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m154[90m:15:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m155[90m:34:[0m Unnecessary long whitespace [90m(standard:no-multi-spaces)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m155[90m:41:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m156[90m:20:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m156[90m:33:[0m Unnecessary long whitespace [90m(standard:no-multi-spaces)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m156[90m:42:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m157[90m:25:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m157[90m:32:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m158[90m:28:[0m Unnecessary long whitespace [90m(standard:no-multi-spaces)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m171[90m:50:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m177[90m:45:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m179[90m:7:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m179[90m:33:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m179[90m:72:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m182[90m:6:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m185[90m:12:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m185[90m:25:[0m Missing newline before ")" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m186[90m:30:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m187[90m:14:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m188[90m:34:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m188[90m:56:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m188[90m:56:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m190[90m:11:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m190[90m:26:[0m Unexpected indentation (16) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m197[90m:17:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m202[90m:48:[0m All branches of the if statement should be wrapped between braces if at least one branch is wrapped between braces [90m(standard:if-else-bracing)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m203[90m:21:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m203[90m:74:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m206[90m:33:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m208[90m:20:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m208[90m:53:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m208[90m:70:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m209[90m:60:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m210[90m:15:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m210[90m:36:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m217[90m:13:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m218[90m:6:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m218[90m:33:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m221[90m:36:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m221[90m:36:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m223[90m:22:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mFixLog.kt[90m:[0m225[90m:19:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m1[90m:1:[0m File must end with a newline (\n) [90m(standard:final-newline)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m15[90m:1:[0m Class body should not start with blank line [90m(standard:no-empty-first-line-in-class-body)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m33[90m:29:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m49[90m:34:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m50[90m:9:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m51[90m:13:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m52[90m:17:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m56[90m:4:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m56[90m:18:[0m Unexpected indentation (4) (should be 8) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m62[90m:3:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m62[90m:41:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m64[90m:4:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m64[90m:49:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m68[90m:22:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m131[90m:19:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m215[90m:6:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m220[90m:48:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m220[90m:77:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m221[90m:33:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m221[90m:36:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m244[90m:32:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m245[90m:14:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m246[90m:41:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m247[90m:18:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m251[90m:27:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m251[90m:85:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m252[90m:4:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m252[90m:28:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m252[90m:49:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m252[90m:75:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m253[90m:3:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m265[90m:26:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m265[90m:41:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m267[90m:17:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m271[90m:1:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m272[90m:24:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainActivity.kt[90m:[0m273[90m:8:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m File must end with a newline (\n) [90m(standard:final-newline)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Missing newline after '{' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Missing newline before '}' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Newline expected after opening parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Parameter should start on a newline [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Newline expected before closing parenthesis [90m(standard:function-signature)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m1[90m:1:[0m Unexpected indentation (15) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m3[90m:1:[0m Imports must be ordered in lexicographic order without any empty lines in-between with "java", "javax", "kotlin" and aliases in the end [90m(standard:import-ordering)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m15[90m:1:[0m Class body should not start with blank line [90m(standard:no-empty-first-line-in-class-body)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m25[90m:62:[0m Declarations and declarations with annotations should have an empty space between. [90m(standard:spacing-between-declarations-with-annotations)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m79[90m:26:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m80[90m:17:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m81[90m:21:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m82[90m:25:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m85[90m:10:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m86[90m:53:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m86[90m:61:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m87[90m:66:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m89[90m:44:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m90[90m:25:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m91[90m:8:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m92[90m:17:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m93[90m:47:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m94[90m:43:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m95[90m:20:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m96[90m:65:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m98[90m:3:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m99[90m:22:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m100[90m:8:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m101[90m:8:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m101[90m:56:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m103[90m:39:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m105[90m:14:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m105[90m:44:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m107[90m:13:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m109[90m:25:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m109[90m:48:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m110[90m:10:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m113[90m:19:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m113[90m:41:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m113[90m:60:[0m Unexpected indentation (20) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m118[90m:46:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m121[90m:11:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m121[90m:50:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m122[90m:13:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m123[90m:60:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m124[90m:28:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m128[90m:22:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m128[90m:49:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m130[90m:21:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m131[90m:9:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m132[90m:43:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m132[90m:52:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m136[90m:25:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m137[90m:36:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m138[90m:27:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m139[90m:34:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m140[90m:21:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m141[90m:58:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m142[90m:25:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m143[90m:50:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m145[90m:20:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m145[90m:65:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m147[90m:47:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m148[90m:32:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m149[90m:54:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m151[90m:13:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m155[90m:21:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m156[90m:22:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m156[90m:79:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m156[90m:80:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m158[90m:4:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m159[90m:28:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m159[90m:62:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m160[90m:13:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m160[90m:40:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m161[90m:15:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m162[90m:15:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m166[90m:50:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m167[90m:80:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m168[90m:15:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m169[90m:52:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m171[90m:22:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m172[90m:24:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m174[90m:19:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m177[90m:36:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m181[90m:59:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m183[90m:26:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m183[90m:41:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m184[90m:6:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m185[90m:25:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m186[90m:70:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m187[90m:33:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m187[90m:63:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m188[90m:25:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m188[90m:32:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m194[90m:26:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m196[90m:63:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m197[90m:59:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m199[90m:14:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m199[90m:50:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m199[90m:55:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m200[90m:50:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m200[90m:73:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m206[90m:20:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m208[90m:3:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m208[90m:41:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m210[90m:6:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m214[90m:26:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m218[90m:44:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m220[90m:23:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m221[90m:5:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m222[90m:33:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m223[90m:16:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m223[90m:54:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m224[90m:47:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m225[90m:15:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m226[90m:8:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m226[90m:9:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m227[90m:5:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m227[90m:35:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m227[90m:62:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m234[90m:47:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m236[90m:52:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m238[90m:6:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m239[90m:48:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m240[90m:53:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m241[90m:12:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m242[90m:55:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m243[90m:15:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m243[90m:51:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m244[90m:33:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m245[90m:7:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m245[90m:22:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m253[90m:14:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m255[90m:19:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m256[90m:2:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m256[90m:73:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m257[90m:45:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m258[90m:25:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m260[90m:12:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m261[90m:33:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m262[90m:64:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m263[90m:17:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m267[90m:7:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m269[90m:55:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m273[90m:24:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m273[90m:66:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m275[90m:30:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m276[90m:2:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m277[90m:25:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m279[90m:2:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m279[90m:7:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m280[90m:31:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m281[90m:36:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m282[90m:1:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m284[90m:25:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m284[90m:27:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m285[90m:41:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m287[90m:34:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m288[90m:21:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m288[90m:51:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m288[90m:78:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m289[90m:46:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m293[90m:54:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m295[90m:3:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m295[90m:44:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m296[90m:18:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m296[90m:88:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m297[90m:26:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m299[90m:16:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m310[90m:63:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m312[90m:67:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m313[90m:23:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m315[90m:6:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m315[90m:66:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m317[90m:23:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m317[90m:23:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m318[90m:7:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m321[90m:25:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m323[90m:11:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m323[90m:25:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m324[90m:26:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m325[90m:36:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m326[90m:10:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m327[90m:1:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m328[90m:1:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m328[90m:20:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m328[90m:31:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m328[90m:58:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m332[90m:22:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m334[90m:37:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m335[90m:35:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m336[90m:65:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m337[90m:25:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m338[90m:28:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m338[90m:63:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m344[90m:30:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m345[90m:28:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m346[90m:3:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m346[90m:65:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m347[90m:54:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m348[90m:57:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m349[90m:8:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m350[90m:16:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m351[90m:39:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m353[90m:28:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m354[90m:32:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m355[90m:25:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m356[90m:21:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m357[90m:66:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m358[90m:29:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m359[90m:12:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m360[90m:8:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m361[90m:21:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m363[90m:34:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m365[90m:45:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m366[90m:23:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m368[90m:7:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m369[90m:38:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m373[90m:3:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m375[90m:38:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m376[90m:8:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m379[90m:37:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m381[90m:18:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m382[90m:8:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m384[90m:11:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m386[90m:2:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m389[90m:4:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m390[90m:54:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m390[90m:62:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m391[90m:33:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m394[90m:10:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m395[90m:4:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m395[90m:30:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m395[90m:76:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m396[90m:41:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m396[90m:79:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m397[90m:49:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m399[90m:33:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m399[90m:40:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m400[90m:37:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m400[90m:47:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m401[90m:43:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m402[90m:13:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m402[90m:79:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m403[90m:28:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m404[90m:20:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m404[90m:47:[0m Unexpected indentation (28) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m409[90m:50:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m410[90m:16:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m410[90m:69:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m411[90m:42:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m411[90m:52:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m412[90m:28:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m415[90m:7:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m418[90m:53:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m419[90m:70:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m425[90m:1:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m426[90m:48:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m427[90m:35:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m428[90m:45:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m429[90m:38:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m430[90m:22:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m431[90m:11:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m432[90m:10:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m432[90m:94:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m434[90m:15:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m436[90m:13:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m438[90m:28:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m439[90m:25:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m440[90m:22:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m440[90m:68:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m442[90m:16:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m446[90m:8:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m448[90m:8:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m451[90m:62:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m455[90m:4:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m456[90m:14:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m456[90m:68:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m457[90m:34:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m457[90m:80:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m459[90m:40:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m462[90m:18:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m463[90m:2:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m464[90m:6:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m465[90m:2:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m466[90m:3:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m467[90m:2:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m471[90m:14:[0m Unnecessary long whitespace [90m(standard:no-multi-spaces)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m471[90m:57:[0m Unexpected indentation (52) (should be 56) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m473[90m:26:[0m Unnecessary long whitespace [90m(standard:no-multi-spaces)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m474[90m:19:[0m Unexpected indentation (48) (should be 52) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m476[90m:8:[0m Unexpected indentation (44) (should be 48) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m476[90m:58:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m477[90m:21:[0m Unexpected indentation (40) (should be 44) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m479[90m:22:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m479[90m:64:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m482[90m:16:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m483[90m:9:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m483[90m:25:[0m Unexpected indentation (36) (should be 40) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m484[90m:3:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m485[90m:6:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m486[90m:5:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m486[90m:10:[0m Unexpected indentation (32) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m487[90m:7:[0m Unexpected indentation (28) (should be 32) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m488[90m:4:[0m Unexpected indentation (24) (should be 28) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m488[90m:35:[0m Unexpected indentation (32) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m497[90m:18:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m497[90m:49:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m500[90m:33:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m502[90m:34:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m503[90m:21:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m513[90m:15:[0m Missing newline before ")" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m515[90m:13:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m515[90m:42:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m523[90m:19:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m524[90m:43:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m524[90m:80:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m525[90m:23:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m526[90m:20:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m528[90m:10:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m529[90m:16:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m529[90m:30:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m529[90m:80:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m530[90m:4:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m530[90m:29:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m532[90m:7:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m533[90m:5:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m536[90m:37:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m536[90m:59:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m538[90m:42:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m539[90m:1:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m539[90m:16:[0m Unexpected indentation (16) (should be 12) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m540[90m:31:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m552[90m:36:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m564[90m:3:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m565[90m:43:[0m Unexpected indentation (12) (should be 16) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m568[90m:33:[0m Line must not begin with "&&" [90m(standard:chain-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m569[90m:33:[0m Line must not begin with "&&" [90m(standard:chain-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m569[90m:57:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m574[90m:19:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-declaration-site)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m575[90m:53:[0m Unexpected indentation (16) (should be 20) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m585[90m:33:[0m Line must not begin with "&&" [90m(standard:chain-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m586[90m:33:[0m Line must not begin with "&&" [90m(standard:chain-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m588[90m:46:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m591[90m:26:[0m Missing newline before ")" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m612[90m:18:[0m Missing newline after "(" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m614[90m:9:[0m Unexpected newline before "catch" [90m(standard:keyword-spacing)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m614[90m:54:[0m Missing newline before ")" [90m(standard:wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m617[90m:40:[0m Unexpected indentation (29) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m620[90m:5:[0m Expected a blank line for this declaration [90m(standard:blank-line-before-declaration)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m625[90m:43:[0m Expected a newline after '{' [90m(standard:try-catch-finally-spacing)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m627[90m:17:[0m Missing newline after '{' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m629[90m:31:[0m Missing newline before '}' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m630[90m:22:[0m Missing newline after '{' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m632[90m:33:[0m Missing newline before '}' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m638[90m:46:[0m Unexpected indentation (29) (should be 36) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m644[90m:21:[0m Missing { ... } [90m(standard:multiline-if-else)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m649[90m:34:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m652[90m:49:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m654[90m:6:[0m Unexpected indentation (20) (should be 24) [90m(standard:indent)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m659[90m:52:[0m Missing newline after '{' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m660[90m:13:[0m Missing newline before '}' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m661[90m:2:[0m Unexpected newline before "catch" [90m(standard:keyword-spacing)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m662[90m:23:[0m Missing newline after '{' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m663[90m:12:[0m Missing newline before '}' [90m(standard:statement-wrapping)[0m
+[90mC:\Users\user\Desktop\Fix60Hz\app\src\main\java\com\example\fix60hz\[0mMainHook.kt[90m:[0m663[90m:35:[0m Unexpected indentation (16) (should be 12) [90m(standard:indent)[0m
+
+Summary error count (descending) by rule:
+  standard:indent: 329
+  standard:function-signature: 33
+  standard:multiline-expression-wrapping: 31
+  standard:trailing-comma-on-call-site: 23
+  standard:wrapping: 14
+  standard:trailing-comma-on-declaration-site: 13
+  standard:statement-wrapping: 10
+  standard:no-multi-spaces: 5
+  standard:argument-list-wrapping: 4
+  standard:chain-wrapping: 4
+  standard:final-newline: 3
+  standard:no-empty-first-line-in-class-body: 3
+  standard:blank-line-before-declaration: 2
+  standard:keyword-spacing: 2
+  standard:if-else-bracing: 1
+  standard:import-ordering: 1
+  standard:multiline-if-else: 1
+  standard:spacing-between-declarations-with-annotations: 1
+  standard:try-catch-finally-spacing: 1

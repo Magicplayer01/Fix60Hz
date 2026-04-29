@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Заголовок -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fix60Hz"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="#1A1A1A"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Realme GT 5G · ColorOS 14"
+            android:textSize="14sp"
+            android:textColor="#888888"
+            android:layout_marginBottom="32dp" />
+
+        <!-- Карточка статуса -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="20dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="СТАТУС МОДУЛЯ"
+                android:textSize="11sp"
+                android:textColor="#888888"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/tvModuleStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="⚠️ Модуль не активен"
+                android:textSize="16sp"
+                android:textColor="#E65100" />
+
+            <TextView
+                android:id="@+id/tvCurrentMode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Текущая цель: 60 Гц"
+                android:textSize="14sp"
+                android:textColor="#444444"
+                android:layout_marginTop="4dp" />
+
+        </LinearLayout>
+
+        <!-- Карточка выбора режима -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="20dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ЦЕЛЕВАЯ ЧАСТОТА"
+                android:textSize="11sp"
+                android:textColor="#888888"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn60"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="60 Гц"
+                    android:textSize="16sp"
+                    android:layout_marginEnd="8dp" />
+
+                <Button
+                    android:id="@+id/btn90"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="90 Гц"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="⚠️ После смены режима необходима перезагрузка"
+                android:textSize="12sp"
+                android:textColor="#888888"
+                android:layout_marginTop="12dp" />
+
+        </LinearLayout>
+
+        <!-- Карточка статистики -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="20dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="СТАТИСТИКА"
+                android:textSize="11sp"
+                android:textColor="#888888"
+                android:textStyle="bold"
+                android:layout_marginBottom="12dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/tvIntercepts"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="—"
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:textColor="#2196F3" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="перехватов"
+                        android:textSize="11sp"
+                        android:textColor="#888888" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/tvLeaks"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="—"
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:textColor="#4CAF50" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="утечек"
+                        android:textSize="11sp"
+                        android:textColor="#888888" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/tvRewrites"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="—"
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:textColor="#FF9800" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="исправлений"
+                        android:textSize="11sp"
+                        android:textColor="#888888" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvStatsHint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Статистика недоступна пока модуль не активен"
+                android:textSize="12sp"
+                android:textColor="#AAAAAA"
+                android:layout_marginTop="12dp" />
+
+        </LinearLayout>
+
+        <!-- Карточка информации -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="О МОДУЛЕ"
+                android:textSize="11sp"
+                android:textColor="#888888"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Принудительно устанавливает частоту обновления экрана. Разработан для Realme GT 5G (RMX2202) с заменённым экраном под ColorOS 14."
+                android:textSize="13sp"
+                android:textColor="#555555"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Версия: 1.0.0"
+                android:textSize="12sp"
+                android:textColor="#AAAAAA" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

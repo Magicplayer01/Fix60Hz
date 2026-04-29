@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+array xposed_scope
+id btn60
+id btn90
+id tvCurrentMode
+id tvIntercepts
+id tvLeaks
+id tvModuleStatus
+id tvRewrites
+id tvStatsHint
+layout activity_main
