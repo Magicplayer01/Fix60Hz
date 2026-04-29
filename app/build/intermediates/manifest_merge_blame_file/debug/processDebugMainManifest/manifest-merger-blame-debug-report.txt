@@ -13,56 +13,58 @@
 11-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:5:22-74
 12
 13    <application
-13-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:7:5-34:19
+13-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:7:5-35:19
 14        android:allowBackup="false"
-14-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:9:9-36
+14-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:10:5-32
 15        android:debuggable="true"
 16        android:extractNativeLibs="false"
-17        android:label="Fix60Hz"
-17-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:8:9-32
-18        android:supportsRtl="true" >
-18-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:10:9-35
-19
-20        <!-- Xposed module metadata -->
-21        <meta-data
-21-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:13:9-15:36
-22            android:name="xposedmodule"
-22-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:14:13-40
-23            android:value="true" />
-23-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:15:13-33
-24        <meta-data
-24-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:16:9-18:120
-25            android:name="xposeddescription"
-25-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:17:13-45
-26            android:value="Forces 60Hz refresh rate. Fix for replaced screens on Realme GT 5G (RMX2202) ColorOS 14." />
-26-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:18:13-117
-27        <meta-data
-27-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:19:9-21:34
-28            android:name="xposedminversion"
-28-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:20:13-44
-29            android:value="93" />
-29-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:21:13-31
-30
-31        <!-- UI Activity -->
-32        <activity
-32-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:24:9-32:20
-33            android:name="com.example.fix60hz.MainActivity"
-33-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:25:13-41
-34            android:exported="true"
-34-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:26:13-36
-35            android:label="Fix60Hz" >
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:9:5-39
+18        android:label="Fix60Hz"
+18-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:8:5-28
+19        android:supportsRtl="true" >
+19-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:11:5-31
+20
+21        <!-- Xposed module metadata -->
+22        <meta-data
+22-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:14:9-16:36
+23            android:name="xposedmodule"
+23-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:15:13-40
+24            android:value="true" />
+24-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:16:13-33
+25        <meta-data
+25-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:17:9-19:120
+26            android:name="xposeddescription"
+26-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:18:13-45
+27            android:value="Forces 60Hz refresh rate. Fix for replaced screens on Realme GT 5G (RMX2202) ColorOS 14." />
+27-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:19:13-117
+28        <meta-data
+28-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:20:9-22:34
+29            android:name="xposedminversion"
+29-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:21:13-44
+30            android:value="93" />
+30-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:22:13-31
+31
+32        <!-- UI Activity -->
+33        <activity
+33-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:25:9-33:20
+34            android:name="com.example.fix60hz.MainActivity"
+34-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:26:13-41
+35            android:exported="true"
 35-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:27:13-36
-36            <intent-filter>
-36-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:28:13-31:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:29:17-69
-37-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:29:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:30:17-77
-39-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:30:27-74
-40            </intent-filter>
-41        </activity>
-42    </application>
-43
-44</manifest>
+36            android:label="Fix60Hz" >
+36-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:28:13-36
+37            <intent-filter>
+37-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:29:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:30:17-69
+38-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:30:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:31:17-77
+40-->C:\Users\user\Desktop\Fix60Hz\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

@@ -1,10 +1,12 @@
+com.example.fix60hz:mipmap/ic_launcher_round = 0x7f040001
 com.example.fix60hz:layout/activity_main = 0x7f030000
 com.example.fix60hz:id/tvStatsHint = 0x7f020007
+com.example.fix60hz:id/tvIntercepts = 0x7f020003
 com.example.fix60hz:id/tvRewrites = 0x7f020006
+com.example.fix60hz:mipmap/ic_launcher = 0x7f040000
 com.example.fix60hz:id/tvModuleStatus = 0x7f020005
 com.example.fix60hz:array/xposed_scope = 0x7f010000
 com.example.fix60hz:id/tvCurrentMode = 0x7f020002
 com.example.fix60hz:id/btn90 = 0x7f020001
 com.example.fix60hz:id/tvLeaks = 0x7f020004
 com.example.fix60hz:id/btn60 = 0x7f020000
-com.example.fix60hz:id/tvIntercepts = 0x7f020003

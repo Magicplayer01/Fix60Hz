@@ -5,9 +5,10 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
-        android:label="Fix60Hz"
-        android:allowBackup="false"
-        android:supportsRtl="true">
+    android:label="Fix60Hz"
+    android:icon="@mipmap/ic_launcher"
+    android:allowBackup="false"
+    android:supportsRtl="true">
 
         <!-- Xposed module metadata -->
         <meta-data

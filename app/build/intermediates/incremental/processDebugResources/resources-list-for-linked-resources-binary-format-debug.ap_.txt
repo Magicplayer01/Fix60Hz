@@ -1,1 +1,0 @@
-C:\Users\user\Desktop\Fix60Hz\app\build\intermediates\merged_res\debug\mergeDebugResources\layout_activity_main.xml.flat C:\Users\user\Desktop\Fix60Hz\app\build\intermediates\merged_res\debug\mergeDebugResources\values_values.arsc.flat 

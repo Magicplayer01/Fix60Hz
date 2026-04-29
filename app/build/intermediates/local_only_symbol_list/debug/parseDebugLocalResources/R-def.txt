@@ -10,3 +10,5 @@ id tvModuleStatus
 id tvRewrites
 id tvStatsHint
 layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fix60hz.app-debug-4:/values_values.arsc.flat",
+            "outputFile": "C:\\Users\\user\\.gradle\\daemon\\8.13\\com.example.fix60hz.app-debug-4:\\values_values.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\user\\Desktop\\Fix60Hz\\app\\src\\main\\res\\values\\arrays.xml",

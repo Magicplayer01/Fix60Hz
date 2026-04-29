@@ -8,3 +8,5 @@ int id tvModuleStatus 0x7f020005
 int id tvRewrites 0x7f020006
 int id tvStatsHint 0x7f020007
 int layout activity_main 0x7f030000
+int mipmap ic_launcher 0x7f040000
+int mipmap ic_launcher_round 0x7f040001
