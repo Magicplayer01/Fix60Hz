@@ -1,14 +1,4 @@
-# Fix60Hz
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android%2014-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Device-Realme%20GT%205G%20(RMX2202)-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Framework-LSPosed-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Version-1.1.0-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
-</p>
-
----
 
 ## 🇷🇺 Русский
 
